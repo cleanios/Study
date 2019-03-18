@@ -10,8 +10,8 @@ assignees: ''
 # ARTICLE_SUBJECT 
 간략한 내용 설명
 
-## Related Article :bookmark:
+## Related Article 🔖
 - #ISSUE_NUM
 
-## Link :link:
+## Link 🔗
 - 관련 링크 혹은 출처 링크
